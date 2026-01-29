@@ -1,7 +1,7 @@
 <h1 align="center">Divyesh Pichuka</h1>
 
 <p align="center">
-📧 Pavanthota44@gmail.com | 📞 8885693869 | 🔗 LinkedIn: Divyesh Pichuka
+📧 divyesh2185@gmail.com | 📞 8885693869 | 🔗 LinkedIn: Divyesh Pichuka
 </p>
 
 <hr>

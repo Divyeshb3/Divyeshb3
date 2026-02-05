@@ -2,7 +2,9 @@
 <h3 align="center">B.Tech Information Technology Student</h3>
 
 <p align="center">
-📧 divyesh2185@gmail.com | 📞 8885693869 | 🔗 LinkedIn: Divyesh Pichuka
+📧 <a href="mailto:divyesh2185@gmail.com">divyesh2185@gmail.com</a> |
+📞 <a href="tel:+918885693869">8885693869</a> |
+🔗 <a href="https://www.linkedin.com/in/divyesh-pichuka/" target="_blank">LinkedIn</a>
 </p>
 
 <hr>
@@ -11,7 +13,7 @@
 
 <p>
 Motivated second-year B.Tech Information Technology student with hands-on experience in Python, Java, SQL, and web development.
-Passionate about Machine Learning, problem-solving, and learning new technologies. Seeking opportunities to apply technical
+Passionate about problem-solving and learning new technologies. Seeking opportunities to apply technical
 skills in real-world projects while continuously improving in a collaborative environment.
 </p>
 
@@ -21,7 +23,6 @@ skills in real-world projects while continuously improving in a collaborative en
 
 <ul>
 <li><b>Programming Languages:</b> Python, Java, C</li>
-<li><b>Machine Learning:</b> Decision Trees, Regression, Classification</li>
 <li><b>Core Skills:</b> Data Structures & Algorithms, MySQL</li>
 <li><b>Web Technologies:</b> HTML, CSS, JavaScript</li>
 <li><b>Tools:</b> Git, Google Colab, Jupyter Notebook, VS Code</li>
@@ -35,22 +36,6 @@ skills in real-world projects while continuously improving in a collaborative en
 <li>Creativity</li>
 <li>Critical Thinking</li>
 <li>Team Player</li>
-</ul>
-
-<hr>
-
-<h2>📂 Projects</h2>
-
-<ul>
-<li>
-<b>Machine Learning Major Project</b><br>
-Built ML models with data preprocessing, feature engineering, and hyperparameter tuning for improved accuracy.
-</li>
-<br>
-<li>
-<b>B.Tech Mini Project</b><br>
-Implemented Decision Tree algorithms for classification and regression using Python.
-</li>
 </ul>
 
 <hr>
@@ -98,8 +83,9 @@ CGPA: 7.8 / 10 (Till Date)
 <h2>📫 Contact Me</h2>
 
 <ul>
-<li>Email: divyesh2185@gmail.com</li>
-<li>LinkedIn: Divyesh Pichuka</li>
+<li>Email: <a href="mailto:divyesh2185@gmail.com">divyesh2185@gmail.com</a></li>
+<li>Phone: <a href="tel:+918885693869">8885693869</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/divyesh-pichuka/" target="_blank">Divyesh Pichuka</a></li>
 <li>GitHub: https://github.com/yourusername</li>
 </ul>
 

@@ -55,7 +55,7 @@ skills in real-world projects while continuously improving in a collaborative en
 <p>
 <b>Velagapudi Ramakrishna Siddhartha Engineering College</b><br>
 B.Tech – Information Technology<br>
-Sep 2023 – May 2027 (Expected)<br>
+Sep 2023 – Still to the Date<br>
 CGPA: 7.8 / 10
 </p>
 

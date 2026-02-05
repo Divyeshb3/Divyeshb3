@@ -2,9 +2,19 @@
 <h3 align="center">B.Tech Information Technology Student</h3>
 
 <p align="center">
-📧 <a href="mailto:divyesh2185@gmail.com">divyesh2185@gmail.com</a> |
-📞 <a href="tel:+918885693869">8885693869</a> |
-🔗 <a href="https://www.linkedin.com/in/divyesh-pichuka/" target="_blank">LinkedIn</a>
+
+<a href="mailto:divyesh2185@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/divyesh-pichuka/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="tel:+918885693869">
+<img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </p>
 
 <hr>
@@ -46,7 +56,7 @@ skills in real-world projects while continuously improving in a collaborative en
 <b>Velagapudi Ramakrishna Siddhartha Engineering College</b><br>
 B.Tech – Information Technology<br>
 Sep 2023 – May 2027 (Expected)<br>
-CGPA: 7.8 / 10 (Till Date)
+CGPA: 7.8 / 10
 </p>
 
 <hr>
@@ -76,17 +86,6 @@ CGPA: 7.8 / 10 (Till Date)
 <li>Telugu – Native</li>
 <li>English – Intermediate</li>
 <li>Hindi – Basic</li>
-</ul>
-
-<hr>
-
-<h2>📫 Contact Me</h2>
-
-<ul>
-<li>Email: <a href="mailto:divyesh2185@gmail.com">divyesh2185@gmail.com</a></li>
-<li>Phone: <a href="tel:+918885693869">8885693869</a></li>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/divyesh-pichuka/" target="_blank">Divyesh Pichuka</a></li>
-<li>GitHub: https://github.com/yourusername</li>
 </ul>
 
 <hr>

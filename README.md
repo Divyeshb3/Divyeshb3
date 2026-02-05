@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyesh Pichuka</h1>
-<h3 align="center">B.Tech Information Technology Student | Machine Learning Enthusiast</h3>
+<h3 align="center">B.Tech Information Technology Student</h3>
 
 <p align="center">
 📧 divyesh2185@gmail.com | 📞 8885693869 | 🔗 LinkedIn: Divyesh Pichuka
